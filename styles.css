@@ -10,6 +10,7 @@ header {
 .titulo-principal {
     font-size: 34px;
     padding: 10px 30px;
+    color: #FFFFFF;
 }
 
 .titulo-principal a {
@@ -21,6 +22,11 @@ nav {
     position: absolute;
     top: 15px;
     right: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #FFFF00;
 }
 
 .banner {

@@ -1,0 +1,24 @@
+body {
+    background-color: #CCCCCC;
+}
+.formulario {
+    background-color: #FFFFFF;
+    position: relative;
+    width: 470px;
+    margin: 0 auto;
+    top: 200px;
+    box-sizing: border-box;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.formulario label {
+    color: #696969;
+    font-weight: bold;
+}
+
+.formulario input {
+    width: 400px;
+    display: block;
+    margin: 5px 0 10px;
+}
