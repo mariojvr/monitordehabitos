@@ -26,6 +26,11 @@ nav {
 
 nav a {
     text-decoration: none;
+    color: #FFFFFF;
+}
+
+nav a:hover {
+    text-decoration: underline;
     color: #FFFF00;
 }
 
@@ -50,8 +55,23 @@ nav a {
 .principal-texto h2 {
     font-size: 64px;
     font-weight: bold;
+    text-align: justify;
+    margin-bottom: 32   px;
 }
 
 .principal-texto p{
-    font-size: 32px;
+    font-size: 28px;
+    text-align: justify;
+}
+
+footer {
+    background-color: #000000;
+    color: #FFFFFF;
+    height: 230px;
+}
+
+footer p {
+    text-align: center;
+    position: relative;
+    top: 100px;
 }
